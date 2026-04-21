@@ -47,6 +47,6 @@ The app will automatically create `events.db` (SQLite) and seed a few example ev
 
 This endpoint is deliberately simple so you can later replace the logic with a real recommendation model.
 
-## 5. Live Demo 
-extracurricular-event-tracking-system-production.up.railway.app
+## 5. Live Demo
+🔗 [Click here to view the Live Demo](https://extracurricular-event-tracking-system-production.up.railway.app)
 
