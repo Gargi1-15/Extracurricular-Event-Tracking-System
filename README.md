@@ -125,4 +125,4 @@ Use the 16-character app password (not your normal Gmail password).
 
 ## 5. live demo
 
-https://extracurricular-event-tracking-system-o3zp.onrender.com
+https://extracurricular-event-tracking-system-1-0016.onrender.com
